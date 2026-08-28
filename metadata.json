@@ -1,0 +1,6 @@
+{
+  "name": "Agency Website",
+  "description": "A refined, modern creative studio and digital product agency website featuring selected case studies, interactive project planner, services breakdown, and studio showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
